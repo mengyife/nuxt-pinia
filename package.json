@@ -10,8 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.5.5",
+    "@vee-validate/rules": "^4.14.3",
     "nuxt": "^3.13.2",
+    "vee-validate": "^4.14.3",
     "vue": "latest",
     "vue-router": "latest"
   }
